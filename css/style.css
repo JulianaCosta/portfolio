@@ -732,6 +732,9 @@ span {
   #darkMode-icon {
     right: 6rem;
   }
+  .header {        
+    width: 100vw; /* acrescentei isso */
+  }
   .home {
     padding: 0 3% 30rem;
   }
